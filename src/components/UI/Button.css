@@ -1,0 +1,10 @@
+button{
+    border-radius: 50%;
+    width: 3.5rem;
+    height: 3.5rem;
+    margin: 1rem 0.5rem;
+    background: -webkit-linear-gradient(#FFD700, #c23a3a);
+    border: 0.01rem solid rgb(70, 79, 70);
+    color: #fff;
+    font-weight: bold;
+}

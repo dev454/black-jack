@@ -1,0 +1,12 @@
+.player-container, .dealer-container{
+    text-align: center;
+}
+
+.player-img{
+    display: block;
+    margin: 1rem auto;
+}
+
+.total-cash{
+    margin-top: 1rem;
+}
